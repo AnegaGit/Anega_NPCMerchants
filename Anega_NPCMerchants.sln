@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anega_NPCMerchants", "Anega_NPCMerchants\Anega_NPCMerchants.csproj", "{09D1E185-D585-4A53-831A-7C127D5FA71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D1E185-D585-4A53-831A-7C127D5FA71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D1E185-D585-4A53-831A-7C127D5FA71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D1E185-D585-4A53-831A-7C127D5FA71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D1E185-D585-4A53-831A-7C127D5FA71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B0ED2B8-666A-4145-8264-124E323B1AD0}
+	EndGlobalSection
+EndGlobal
